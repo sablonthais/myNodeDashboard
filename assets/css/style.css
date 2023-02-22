@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'hobbitton';
+    src: url("../font/hobbitton.ttf");
+}
+@font-face {
+    font-family: 'aniron';
+    src: url("../font/aniron.ttf");
+}
+@font-face {
+    font-family: 'interFin';
+    src: url("../font/interFin.ttf");
+}
+
+/*^ *****************************************************/
+body{
+    margin: 0;
+    max-width: 100vw;
+}
+
+#container{
+    width: 100vw;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/*& ABOUT THE SCREEN **********************/
+
+/*~*DASHBOARD **********************/
+.dashboard{
+    width: 100%;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+
+}
+
+/*~ LEFT → IMAGE+QUOTE */
+.quote{
+    width: 50%;
+    height: 100%;
+}
+.facadePic{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+
+/*? QUOTE LOTR */
+.divBilbo{
+    width: 40%;
+    background-color: #dccec184;
+    border-radius: 15px;
+    padding: 2%;
+    text-align: center;
+    position: absolute;
+    top: 1%;
+    left: 5%;
+}
+.bilbo{
+    color: #ab9f93;
+    font-family: 'aniron';
+    font-size: 1rem;
+    line-height: 1.3;
+}
+
+/*~ RIGHT → APIS */
+/* todo API GENERAL */
+.all-apis {
+    width: 50%;
+    height: 100%;
+    padding-top: 2%;
+    padding-bottom: 3%;
+
+    display: flex;
+    flex-direction: column;
+    gap: 5%;
+    justify-content: space-around;
+    align-items: space-around;
+}
+/*? TITLE */
+.title{
+    width: 100%;
+    height: 10vh;
+    font-family: 'hobbitton';
+}
+.title > h1{
+    color: #DCCEC1;
+    text-align: center;
+    font-size: 3rem;
+    padding-top: 2%;
+    
+}
+
+
+/*todo WEATHER BLOC */
+.weatherbloc{
+    width: 100%;
+    color: white;
+    font-size: 1.2rem;
+    font-family: 'interFin';
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.weatherbloc > div{
+    width: 20vw;
+    height: 15vh;
+    border-radius: 15px;
+    background-color: #DCCEC1;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/*todo ACTU BLOC */
+.actubloc{
+    width: 100%;
+    color: white;
+    font-size: 1.2rem;
+    font-family: 'interFin';
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.actubloc >div{
+    width: 20vw;
+    height: 60vh;
+    border-radius: 15px;
+    padding: 2%;
+    background-color: #DCCEC1 ;
+}
+.actubloc table{
+    text-align: center;
+}
+.actubloc th{
+    padding-bottom: 5%;
+}
+
+/*? RATES */
+.rates h2{
+    text-align: center;
+    font-family: 'aniron';
+    font-size: 1rem;
+    color: white;
+    padding-bottom: 10%;
+}
+.rates td{
+    padding-bottom: 10%;
+}
+.rates th{
+    padding-bottom: 15%;
+}
+
+/*? HOROSCOPE */
+.horoscope h2{
+    text-align: center;
+    font-family: 'aniron';
+    font-size: 1rem;
+    color: white;
+    padding-bottom: 10%;
+}
+.horoscope h3{
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: white;
+}
+.horoscope td{
+    padding-bottom: 5%;
+}
+
+
+

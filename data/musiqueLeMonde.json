@@ -1,0 +1,943 @@
+{
+    "rss": {
+        "$": {
+            "version": "2.0",
+            "xmlns:atom": "http://www.w3.org/2005/Atom",
+            "xmlns:media": "http://search.yahoo.com/mrss/",
+            "xmlns:content": "http://purl.org/rss/1.0/modules/content/"
+        },
+        "channel": [
+            {
+                "title": [
+                    "Musiques : Toute l’actualité sur Le Monde.fr."
+                ],
+                "description": [
+                    "Musiques  - Découvrez gratuitement tous les articles, les vidéos et les infographies de la rubrique Musiques sur Le Monde.fr."
+                ],
+                "copyright": [
+                    "Le Monde - L’utilisation des flux RSS du Monde.fr est réservée à un usage strictement personnel, non professionnel et non collectif. Toute autre exploitation doit faire l’objet d’une autorisation et donner lieu au versement d’une rémunération. Contact : droitsdauteur@lemonde.fr"
+                ],
+                "link": [
+                    "https://www.lemonde.fr/musiques/rss_full.xml"
+                ],
+                "pubDate": [
+                    "Thu, 22 Dec 2022 14:36:08 +0000"
+                ],
+                "language": [
+                    "fr"
+                ],
+                "atom:link": [
+                    {
+                        "$": {
+                            "href": "https://www.lemonde.fr/musiques/rss_full.xml",
+                            "rel": "self",
+                            "type": "application/rss+xml"
+                        }
+                    }
+                ],
+                "item": [
+                    {
+                        "title": [
+                            "Un « Candide » qui tourne en rond à l’Opéra de Lyon"
+                        ],
+                        "pubDate": [
+                            "Wed, 21 Dec 2022 08:00:12 +0100"
+                        ],
+                        "description": [
+                            "La nouvelle production de l’opérette anticonformiste de Leonard Bernstein souffre d’une mise en scène trop conceptuelle de Daniel Fish"
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/culture/article/2022/12/21/un-candide-qui-tourne-en-rond-a-l-opera-de-lyon_6155252_3246.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/culture/article/2022/12/21/un-candide-qui-tourne-en-rond-a-l-opera-de-lyon_6155252_3246.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/20/388/0/2478/1239/644/322/60/0/c29d2ee_1671526574353-operacandide57-copyrightstofleth.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Répétition générale de l’opéra « Candide » le 14 décembre 2022, à l’Opéra national de Lyon .",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "Stofleth",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "La mort de Terry Hall, le chanteur au timbre doux-amer des Specials"
+                        ],
+                        "pubDate": [
+                            "Tue, 20 Dec 2022 18:37:45 +0100"
+                        ],
+                        "description": [
+                            "Natif de Coventry, le chanteur emblématique du groupe britannique, pionnier du revival ska et des métissages les plus innovants à la fin des années 1970, s’est éteint à l’âge de 63 ans."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/disparitions/article/2022/12/20/la-mort-de-terry-hall-le-chanteur-au-timbre-doux-amer-des-specials_6155207_3382.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/disparitions/article/2022/12/20/la-mort-de-terry-hall-le-chanteur-au-timbre-doux-amer-des-specials_6155207_3382.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/20/806/32/3384/1692/644/322/60/0/2e68578_1671553538345-gettyimages-1450460505.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Le chanteur britannique Terry Hall sur scène, lors d’un concert au Rock Against Racism show, à Leeds, le 4 juillet 1981.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "David Corio / Getty Images",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Terry Hall, le chanteur du groupe britannique The Specials, meurt à 63 ans"
+                        ],
+                        "pubDate": [
+                            "Tue, 20 Dec 2022 02:16:29 +0100"
+                        ],
+                        "description": [
+                            "Son groupe avait fait revivre le ska avec des métissages innovants et engagés dans l’Angleterre post-punk."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/culture/article/2022/12/20/terry-hall-le-chanteur-du-groupe-britannique-the-specials-disparait_6155116_3246.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/culture/article/2022/12/20/terry-hall-le-chanteur-du-groupe-britannique-the-specials-disparait_6155116_3246.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/20/0/0/3260/1630/644/322/60/0/0549bd8_5050663-01-06.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Terry Hall chante au BT London Live lors de la cérémonie des J.O à Londres, le 12 aout 2012.  ",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "ANDREW COWIE / AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Spectacle : Dominique Dimey chante les textes de Bernard Dimey, son père rencontré par hasard"
+                        ],
+                        "pubDate": [
+                            "Mon, 19 Dec 2022 20:00:23 +0100"
+                        ],
+                        "description": [
+                            "Au Théâtre Essaïon, à Paris, l’artiste propose un spectacle en hommage au poète et auteur, parolier pour Aznavour ou Zizi Jeanmaire, entré tardivement dans sa vie."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/musiques/article/2022/12/19/spectacle-dominique-dimey-chante-les-textes-de-bernard-dimey-son-pere-rencontre-par-hasard_6155097_1654986.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/musiques/article/2022/12/19/spectacle-dominique-dimey-chante-les-textes-de-bernard-dimey-son-pere-rencontre-par-hasard_6155097_1654986.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/16/247/0/2736/1368/644/322/60/0/8a471c9_1671183278685-bernard-dimey-pere-et-fille-avignon-2019-photo-3-bernard-legoff.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "« Bernard Dimey père & fille, une incroyable rencontre » au Théâtre Essaïon, à Paris, en septembre 2022.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "JACQUES LE GOFF",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Sinatra, The Pretenders, Kadhja Bonet… Noël en six chansons et albums"
+                        ],
+                        "pubDate": [
+                            "Mon, 19 Dec 2022 00:00:09 +0100"
+                        ],
+                        "description": [
+                            "Le lundi, le service Culture du « Monde » propose aux lecteurs de « La Matinale » ses choix en matière de musique."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/musiques/article/2022/12/19/sinatra-the-pretenders-kadhja-bonet-noel-en-six-chansons-et-albums_6154978_1654986.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/musiques/article/2022/12/19/sinatra-the-pretenders-kadhja-bonet-noel-en-six-chansons-et-albums_6154978_1654986.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/18/212/447/467/234/644/322/60/0/da28022_1671392368889-maxresdefault.jpeg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Sharon Jones & The Dap-Kings.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "Daptone Records",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Maître Gims, Jungkook, voix du monde arabe… Les dessous de la stratégie musicale de la FIFA pour la Coupe du monde au Qatar"
+                        ],
+                        "pubDate": [
+                            "Sun, 18 Dec 2022 14:56:12 +0100"
+                        ],
+                        "description": [
+                            "L’artiste français, qui va chanter lors de la cérémonie de clôture du tournoi, incarne, avec d’autres, la stratégie de la FIFA de créer un « son du Mondial » pour cette édition."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/football/article/2022/12/18/maitre-gims-jung-kook-voix-du-monde-arabe-les-dessous-de-la-strategie-musicale-de-la-fifa-pour-la-coupe-du-monde-au-qatar_6154953_1616938.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/football/article/2022/12/18/maitre-gims-jung-kook-voix-du-monde-arabe-les-dessous-de-la-strategie-musicale-de-la-fifa-pour-la-coupe-du-monde-au-qatar_6154953_1616938.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/18/1357/0/8640/4320/644/322/60/0/aa5f1ff_a02db04de5fe47e8b643366515992999-0-3fea0dc77bad4450a84063f27a2b4be1.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "La cérémonie de clôture de la Coupe du monde 2022 a réuni certains des artistes de la « bande-son » officielle du tournoi, à doha, au qatar, le 18 décembre 2022.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "Thanassis Stavrakis / AP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Quand Radio Nova s’offre « La Danse du zèbre » pour ses quarante ans"
+                        ],
+                        "pubDate": [
+                            "Sat, 17 Dec 2022 19:00:12 +0100"
+                        ],
+                        "description": [
+                            "Un podcast en quarante épisodes, grand mélange d’archives, de témoignages et de musiques, célèbre l’anniversaire de la radio fondée par Jean-François Bizot, véritable « université de l’underground »."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/culture/article/2022/12/17/quand-radio-nova-s-offre-la-danse-du-zebre-pour-ses-quarante-ans_6154878_3246.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/culture/article/2022/12/17/quand-radio-nova-s-offre-la-danse-du-zebre-pour-ses-quarante-ans_6154878_3246.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/15/294/0/2500/1250/644/322/60/0/966b434_1671102593508-000-app2002102581175.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Max, le programmateur de Radio Nova, cherche un disque dans la discothèque de la radio à Paris, le 3 octobre 2002.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "FRANÇOIS GUILLOT/AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "L’un des « Tri Yann », Jean-Paul Corbineau, est mort"
+                        ],
+                        "pubDate": [
+                            "Fri, 16 Dec 2022 19:06:10 +0100"
+                        ],
+                        "description": [
+                            "Après cinquante ans de scène, le groupe de musique celtique avait fait ses adieux au public en 2021 à Nantes, mettant fin à une carrière à la longévité exceptionnelle."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/disparitions/article/2022/12/16/l-un-des-tri-yann-jean-paul-corbineau-est-mort_6154769_3382.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/disparitions/article/2022/12/16/l-un-des-tri-yann-jean-paul-corbineau-est-mort_6154769_3382.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/16/158/0/3576/1788/644/322/60/0/9a0de2c_5023104-01-06.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Jean-Paul Corbineau, le 11 septembre 2021, à la Cité des congrès de Nantes. Le groupe Tri Yann y avait donné un ultime concert, mettant fin à cinquante ans de prestations scéniques.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "SEBASTIEN SALOM-GOMIS / AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Un apéro avec Jean-Jacques Debout : « J’étais si bien en prison que, le jour de ma libération, j’ai demandé à rester une semaine de plus »"
+                        ],
+                        "pubDate": [
+                            "Fri, 16 Dec 2022 18:00:31 +0100"
+                        ],
+                        "description": [
+                            "Enfant, il a servi la messe avec Jacques Mesrine, redoublé quatre fois. Intarissable, le prolifique chansonnier, époux de Chantal Goya, prépare, à 82 ans, un album, un film, une comédie musicale. Il vient de publier un livre de souvenirs, alimenté par une mémoire hors norme."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/m-perso/article/2022/12/16/un-apero-avec-jean-jacques-debout-j-etais-si-bien-en-prison-que-le-jour-de-ma-liberation-j-ai-demande-a-rester-une-semaine-de-plus_6154757_4497916.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/m-perso/article/2022/12/16/un-apero-avec-jean-jacques-debout-j-etais-si-bien-en-prison-que-le-jour-de-ma-liberation-j-ai-demande-a-rester-une-semaine-de-plus_6154757_4497916.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/13/818/0/4724/2362/644/322/60/0/c0baba8_1670929246559-9x9a01351.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Jean-Jacques Debout, au Café des ministères, à Paris, le 25 novembre 2022.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "AGLAÉ BORY POUR « LE MONDE »",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Sélection albums : Jordi Savall, Tatiana Probst, Daniel Zimmerman, The Beach Boys, Rocío Márquez y Bronquio"
+                        ],
+                        "pubDate": [
+                            "Fri, 16 Dec 2022 18:00:20 +0100"
+                        ],
+                        "description": [
+                            "A écouter cette semaine : un ensemble de pièces sacrées par le violiste, chef de chœur, chef d’orchestre et ses musiciens ; le premier disque entièrement consacré aux œuvres de la musicienne ; Gainsbourg mis en jazz par un quartette mené par le tromboniste ; une réédition de deux albums méconnus du groupe pop ; une chanteuse de flamenco associée à un DJ et producteur électro."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/culture/article/2022/12/16/selection-albums-jordi-savall-tatiana-probst-daniel-zimmerman-the-beach-boys-roc-o-marquez-y-bronquio_6154753_3246.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/culture/article/2022/12/16/selection-albums-jordi-savall-tatiana-probst-daniel-zimmerman-the-beach-boys-roc-o-marquez-y-bronquio_6154753_3246.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/15/250/0/1024/512/644/322/60/0/8baa998_1671092097799-beach-boys-sail-on-sailor-cover-1024x1024.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Pochette du coffret « Sail on Sailor », des Beach Boys. ",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "CAPITOL RECORDS/UNIVERSAL MUSIC",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "A l’Accor Arena de Paris, Damso soigne son show"
+                        ],
+                        "pubDate": [
+                            "Fri, 16 Dec 2022 10:22:47 +0100"
+                        ],
+                        "description": [
+                            "Seul en scène, et pour quatre soirs dans la grande salle parisienne, le rappeur belge réussit son concert, grâce à une belle mise en scène et des titres réarrangés."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/culture/article/2022/12/16/a-l-accor-arena-de-paris-damso-soigne-son-show_6154689_3246.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/culture/article/2022/12/16/a-l-accor-arena-de-paris-damso-soigne-son-show_6154689_3246.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/16/110/0/6000/3000/644/322/60/0/ebeb6c8_1671182022936-000-32hk3l9.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Le rapper Damso en concert le 2 septembre 2022, à Aussonne (Haute-Garonne).",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "CHARLY TRIBALLEAU / AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Etienne Daho : « J’ai transformé tout ce qui aurait pu être du chaos dans ma vie. Le côté victime, chialeur, c’est tout sauf moi »"
+                        ],
+                        "pubDate": [
+                            "Fri, 16 Dec 2022 06:00:24 +0100"
+                        ],
+                        "description": [
+                            "A l’occasion d’un beau livre de Sylvie Coma sur ses quarante ans de carrière, le chanteur est le nouvel invité du podcast « Le Goût de M », en accès libre dès le vendredi."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/podcasts/article/2022/12/16/etienne-daho-j-ai-transforme-tout-ce-qui-aurait-pu-etre-du-chaos-dans-ma-vie-le-cote-victime-chialeur-c-est-tout-sauf-moi_6154647_5463015.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/podcasts/article/2022/12/16/etienne-daho-j-ai-transforme-tout-ce-qui-aurait-pu-etre-du-chaos-dans-ma-vie-le-cote-victime-chialeur-c-est-tout-sauf-moi_6154647_5463015.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/15/155/0/3543/1771/644/322/60/0/51f9d7c_1671113396763-ei-tienne-daho-77-formats.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Une très réjouissante « Petite Boutique des horreurs » mise en scène par Valérie Lesort et Christian Hecq"
+                        ],
+                        "pubDate": [
+                            "Wed, 14 Dec 2022 20:00:15 +0100"
+                        ],
+                        "description": [
+                            "La comédie musicale multirécompensée d’Alan Menken et Howard Ashman, présentée en version française à l’Opéra-Comique, sera à l’affiche jusqu’à Noël."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/culture/article/2022/12/14/une-tres-rejouissante-petite-boutique-des-horreurs-mise-en-scene-par-valerie-lesort-et-christian-hecq_6154447_3246.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/culture/article/2022/12/14/une-tres-rejouissante-petite-boutique-des-horreurs-mise-en-scene-par-valerie-lesort-et-christian-hecq_6154447_3246.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/13/100/0/1200/600/644/322/60/0/75a31a6_1670932069861-8-la-petite-boutique-des-horreurs-dr-s-brion.png",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:credit": [
+                                    {
+                                        "_": "S. BRION",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Musique : les sept coups de cœur du « Monde Afrique » en 2022"
+                        ],
+                        "pubDate": [
+                            "Wed, 14 Dec 2022 19:00:12 +0100"
+                        ],
+                        "description": [
+                            "Des albums de Jahwar, Pierre Kwenders, Pilani Bubu ou encore Alune Wade ont retenu l’attention de notre chroniqueur."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/afrique/article/2022/12/14/musique-les-sept-coups-de-c-ur-du-monde-afrique-en-2022_6154441_3212.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/afrique/article/2022/12/14/musique-les-sept-coups-de-c-ur-du-monde-afrique-en-2022_6154441_3212.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/14/258/0/3264/1632/644/322/60/0/d2e4cb6_1671008785174-top-7-albums.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Avec la disparition d’Angelo Badalamenti, David Lynch perd son compositeur fétiche"
+                        ],
+                        "pubDate": [
+                            "Wed, 14 Dec 2022 01:01:58 +0100"
+                        ],
+                        "description": [
+                            "Le musicien américain, mort le 11 décembre à l’âge de 85 ans, avait connu la célébrité grâce à la bande originale de la série « Twin Peaks »."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/disparitions/article/2022/12/14/angelo-badalamenti-compositeur-fetiche-de-david-lynch-est-mort_6154286_3382.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/disparitions/article/2022/12/14/angelo-badalamenti-compositeur-fetiche-de-david-lynch-est-mort_6154286_3382.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/13/283/0/4134/2067/644/322/60/0/ad0e87b_1670950437812-signatures-027362-001.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Angelo Badalamenti, à Paris, en 1995.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "LAURENT MONLAÜ / SIGNATURES",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Patrick Bruel chante le temps qui passe et la planète en danger"
+                        ],
+                        "pubDate": [
+                            "Tue, 13 Dec 2022 18:00:04 +0100"
+                        ],
+                        "description": [
+                            "Le chanteur publie son dixième album studio, « Encore une fois », marqué par une actualité sombre."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/culture/article/2022/12/13/patrick-bruel-chante-le-temps-qui-passe-et-la-planete-en-danger_6154251_3246.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/culture/article/2022/12/13/patrick-bruel-chante-le-temps-qui-passe-et-la-planete-en-danger_6154251_3246.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/01/186/0/4344/2172/644/322/60/0/e773051_1669889450790-000-9d47p9.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Patrick Bruel à La Baule (Loire-Atlantique), le 24 juin 2021.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "LOÏC VENANCE/AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Mort du guitariste et claviériste allemand Manuel Göttsching, fondateur d’Ash Ra Tempel"
+                        ],
+                        "pubDate": [
+                            "Tue, 13 Dec 2022 12:22:36 +0100"
+                        ],
+                        "description": [
+                            "Cofondateur d’un des groupes de référence de la scène rock allemande des années 1970, il aura fait entendre une belle fluidité et une clarté d’exécution dans le jeu à la guitare. Il s’est éteint le 4 décembre à l’âge de 70 ans."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/culture/article/2022/12/13/mort-du-guitariste-et-clavieriste-allemand-manuel-gottsching-fondateur-d-ash-ra-tempel_6154197_3246.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/culture/article/2022/12/13/mort-du-guitariste-et-clavieriste-allemand-manuel-gottsching-fondateur-d-ash-ra-tempel_6154197_3246.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/13/938/0/3409/1704/644/322/60/0/bd03519_1670928902005-fabian-brennecke-manuel-goi-ttsching-06.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Manuel Göttsching à Berlin, le 11 septembre 2018.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "FABIAN BRENNECKE",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Blackpink, la vie en rose mais à la force du poignet"
+                        ],
+                        "pubDate": [
+                            "Mon, 12 Dec 2022 09:21:53 +0100"
+                        ],
+                        "description": [
+                            "Le groupe de K-pop, pur produit de l’industrie musicale coréenne, joue à guichet fermé à l’Accor Arena, étape parisienne d’une tournée mondiale."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/culture/article/2022/12/12/blackpink-la-vie-en-rose-mais-a-la-force-du-poignet_6154015_3246.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/culture/article/2022/12/12/blackpink-la-vie-en-rose-mais-a-la-force-du-poignet_6154015_3246.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/12/300/0/3600/1800/644/322/60/0/342856b_1670829987438-063-1418887647.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Blackpink aux MTV Video Music Awards, dans le New Jersey, aux Etats-Unis, le 28 août 2022. ",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "BENNETT RAGLIN/GETTY IMAGES VIA AFP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Trans Musicales de Rennes : Flamenco électro et flammes lusophones"
+                        ],
+                        "pubDate": [
+                            "Mon, 12 Dec 2022 09:08:16 +0100"
+                        ],
+                        "description": [
+                            "Une 44ᵉ édition du festival marquée par les audaces formelles du duo Rocio Marquez et Bronquio, et par la joie carnavalesque du groupe Ayom."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/culture/article/2022/12/12/trans-musicales-de-rennes-flamenco-electro-et-flammes-lusophones_6154012_3246.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/culture/article/2022/12/12/trans-musicales-de-rennes-flamenco-electro-et-flammes-lusophones_6154012_3246.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/12/173/0/3295/1647/644/322/60/0/7a40bd9_1670828754459-maxpeopleworldtwo222048.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "Rocio Marquez et DJ Bronquio, à la Greenroom, aux Transmusicales de Rennes, le 9 décembre 2022.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "MARC OLLIVIER/OUEST FRANCE/MAXPPP",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title": [
+                            "Dutronc et Dutronc, les Inrocks Festival, les Divalala… Sept concerts et festivals"
+                        ],
+                        "pubDate": [
+                            "Mon, 12 Dec 2022 00:00:10 +0100"
+                        ],
+                        "description": [
+                            "Le lundi, le service Culture du « Monde » propose aux lecteurs de « La Matinale » ses choix en matière de musique."
+                        ],
+                        "guid": [
+                            {
+                                "_": "https://www.lemonde.fr/musiques/article/2022/12/12/dutronc-et-dutronc-les-inrocks-festival-les-divalala-sept-concerts-et-festivals_6153975_1654986.html",
+                                "$": {
+                                    "isPermaLink": "true"
+                                }
+                            }
+                        ],
+                        "link": [
+                            "https://www.lemonde.fr/musiques/article/2022/12/12/dutronc-et-dutronc-les-inrocks-festival-les-divalala-sept-concerts-et-festivals_6153975_1654986.html"
+                        ],
+                        "media:content": [
+                            {
+                                "$": {
+                                    "url": "https://img.lemde.fr/2022/12/10/0/167/1266/633/644/322/60/0/38f333d_1670663709602-khatia-buniatishvili-by-esther-haase-2.jpg",
+                                    "width": "644",
+                                    "height": "322"
+                                },
+                                "media:description": [
+                                    {
+                                        "_": "La pianiste Khatia Buniatishvili.",
+                                        "$": {
+                                            "type": "plain"
+                                        }
+                                    }
+                                ],
+                                "media:credit": [
+                                    {
+                                        "_": "ESTHER HAASE/PHILHARMONIEDEPARIS.FR",
+                                        "$": {
+                                            "scheme": "urn:ebu"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

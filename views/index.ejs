@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My dashboard - Node js</title>
+    <!-- <script>
+        function reload(){
+            location.reload();
+        }
+        window.onload=setInterval(reload,60000);
+    </script> -->
+</head>
+
+<body>
+    <div id="container">
+        <section class="dashboard">           
+            <div class="quote">
+                <img class="facadePic" src="images/dashboard.jpg" alt="picture of a beige facade">
+                <div class="divBilbo">
+                    <p class="bilbo">"It’s like in the great stories, Mr. Frodo. The ones that really mattered. Full of darkness and danger they were. And sometimes you didn’t want to know the end… because how could the end be happy? How could the world go back to the way it was when so much bad had happened? But in the end, it’s only a passing thing… this shadow. Even darkness must pass." - J.R.R. Tolkien.</p>
+                </div>  
+            </div>
+            <div class="all-apis">
+                <div class="title">
+                    <h1>My Dashboard</h1>
+                </div>
+                <div class="weatherbloc">
+                    <div class="timeInfos">
+                        <h2 id="time"></h2>
+                        <h2 id="day">thuesday</h2>
+                        <h2 id="date"></h2>
+                    </div>
+                    <div class="weather">
+                        <h2 id="temp">
+                            <%=temperatureNoonIndex%> °C
+                        </h2>
+                        <h2 id="airQTitle">Qualité de l'air</h2>
+                        <h2 id="airQNb">
+                            <%=airQualityI%>
+                                <%=airUnityI%>
+                        </h2>
+                    </div>
+                </div>
+
+                <div class="actubloc">
+                    <div class="horoscope">
+                        <h2>Horoscope</h2>
+                        
+                            <table>
+                                <th>Sign</th>
+                                <th>Dates</th>
+                                <% for (i=0 ; i < horoscopes.length ; i++) { %> 
+                                <tr>
+                                    <td>
+                                        <h3><%= horoscopes[i].sign %></h3>
+                                    </td>
+                                    <td>
+                                        <p> <%= horoscopes[i].date_range %></p>
+                                    </td>
+                                    
+                                </tr>
+                                <% } %>
+                            </table>                    
+                    </div>   
+                    <div class="rates">
+                        <h2>Rates</h2>
+                        <table class="table">
+                            <th>Monnaie </th>
+                            <th>Code</th>
+                            <th>Taux</th>
+                            <!-- <th>Date</th> -->
+                            <tr>
+                                <td>🇬🇧<br> <%= FloatRatesI.gbp.name %>
+                                </td>
+                                <td >
+                                    <%= FloatRatesI.gbp.code %>
+                                </td>
+                                <td >
+                                    <%=FloatRatesI.gbp.rate.toFixed(2)%>£
+                                </td>
+                                <!-- <td>
+                                    <%= new Date(FloatRatesI.gbp.date).toLocaleDateString("fr-BE")%>
+                                </td> -->
+                            </tr>
+                            <tr>
+                                <td >🇲🇷 <%= FloatRatesI.mru.name %></td>
+                                <td ><%= FloatRatesI.mru.code %></td>
+                                <td ><%=FloatRatesI.mru.rate.toFixed(2)%></td>
+                                <!-- <td > <%= new Date(FloatRatesI.mru.date).toLocaleDateString("fr-BE")%></td> -->
+                            </tr>
+                            <tr>
+                                <td > 🇻🇳 <%= FloatRatesI.vnd.name %></td>
+                                <td ><%= FloatRatesI.vnd.code %></td>
+                                <td ><%=FloatRatesI.vnd.rate.toFixed(2)%></td>
+                                <!-- <td ><%= new Date(FloatRatesI.vnd.date).toLocaleDateString("fr-BE")%></td> -->
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </section>       
+    </div>
+ 
+
+    <script src="/scripts/script.js"></script>
+</body>
+
+</html>
